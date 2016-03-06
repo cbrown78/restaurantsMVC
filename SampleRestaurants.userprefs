@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../HelloWorldMVC/HelloWorldMVC/Controllers/HomeController.cs" line="13" offsetX="517" offsetY="180" expression="System.DateTime" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <StartupItems>
+    <String>SampleRestaurants/SampleRestaurants.csproj</String>
+    <String>SampleRestaurants.Tests/SampleRestaurants.Tests.csproj</String>
+  </StartupItems>
+</Properties>

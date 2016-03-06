@@ -1,0 +1,15 @@
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/SampleRestaurants.Tests.dll.mdb
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/SampleRestaurants.Tests.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/obj/Debug/SampleRestaurants.Tests.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/obj/Debug/SampleRestaurants.Tests.dll.mdb
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.Razor.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.Helpers.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.WebPages.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/System.Web.Mvc.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/nunit.framework.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/SampleRestaurants.dll
+/Users/cbrown/Projects/cbrown78/restaurantsMVC.git/SampleRestaurants.Tests/bin/Debug/SampleRestaurants.dll.mdb
